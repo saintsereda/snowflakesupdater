@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Snowflakes</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sun, 02 Nov 2025 22:59:01 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saintsereda/snowflakesupdater/releases/download/prod/Snowflakes.zip" length="6566468" type="application/octet-stream" sparkle:edSignature="JKkxGwbAEBGFT3YW48FNFeJU7UlLn6YXPf2wLp4PT+oepNiZzuVo64QQ/E1JWRGvl6Yvqt4ExjvmHOv2XGgpAQ=="/>
+        </item>
+    </channel>
+</rss>
