@@ -3,12 +3,12 @@
     <channel>
         <title>Snowflakes</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Sun, 02 Nov 2025 22:59:01 +0100</pubDate>
+            <title>0.9.1</title>
+            <pubDate>Sun, 02 Nov 2025 23:07:11 +0100</pubDate>
             <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saintsereda/snowflakesupdater/releases/download/prod/Snowflakes.zip" length="6566468" type="application/octet-stream" sparkle:edSignature="JKkxGwbAEBGFT3YW48FNFeJU7UlLn6YXPf2wLp4PT+oepNiZzuVo64QQ/E1JWRGvl6Yvqt4ExjvmHOv2XGgpAQ=="/>
+            <enclosure url="https://github.com/saintsereda/snowflakesupdater/releases/download/prod/Snowflakes.zip" length="6566486" type="application/octet-stream" sparkle:edSignature="RH4YXugCZ8iqQD3c+XJpgc1K+UdsZXJDqqJtB/TZtxuI7bhs7seNmN+fAwo0Wbxbyn2pQCArFDqeT7KCBzhrBg=="/>
         </item>
     </channel>
 </rss>
