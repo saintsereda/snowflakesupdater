@@ -8,7 +8,7 @@
             <sparkle:version>1.6</sparkle:version>
             <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saintsereda/snowflakesupdater/releases/download/prod/Snowflakes.zip?token=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" length="6552777" type="application/octet-stream" sparkle:edSignature="463DsZCuwqrfivfJ0FGAclotBrCt3+vbNN1FVifuBxrDJqXMdFzp4QF5nbJXucBYhCGxvTst2C3ZXqFDGrXVDw=="/>
+            <enclosure url="https://github.com/saintsereda/snowflakesupdater/releases/download/prod/Snowflakes.zip" length="6552777" type="application/octet-stream" sparkle:edSignature="463DsZCuwqrfivfJ0FGAclotBrCt3+vbNN1FVifuBxrDJqXMdFzp4QF5nbJXucBYhCGxvTst2C3ZXqFDGrXVDw=="/>
         </item>
     </channel>
 </rss>
